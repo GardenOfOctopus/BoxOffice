@@ -75,4 +75,4 @@
 
 Страницы добавления спектакля или театра устроены аналогично страницам редактирования
 # Схема базы данных
-![Database Scheme](https://https://github.com/GardenOfOctopus/BoxOffice/main/database_scheme.png)
+![Database Scheme](https://github.com/GardenOfOctopus/BoxOffice/blob/main/database_scheme.png)
